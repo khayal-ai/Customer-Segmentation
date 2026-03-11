@@ -43,3 +43,25 @@ These clusters can help businesses identify:
 ## How to Run the Project
 
 1. Clone the repository
+
+```bash
+git clone https://github.com/khayal-ai/Customer-Segmentation.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd Customer-Segmentation
+```
+
+3. Install required libraries
+
+```bash
+pip install pandas scikit-learn seaborn matplotlib
+```
+
+4. Run the project
+
+```bash
+python main.py
+```
